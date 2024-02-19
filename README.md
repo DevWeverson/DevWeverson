@@ -13,7 +13,7 @@ Iniciando o aprendizado em:
 - <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt= "react-logo"/>
 
 Contato:
-- <a href= "weversoncarlos15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt= "gmail-logo"/></a>
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt= "gmail-logo"/> weversoncarlos15@gmail.com
 - <a href= "https://www.instagram.com/weverson.crs/"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt= "instagram-logo"/></a>
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWeverson)](https://github.com/anuraghazra/github-readme-stats)
